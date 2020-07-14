@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Saheed Oladele, a full-stack software developer.
+I am Saheed Oladele, a positive minded full-stack software developer with a can do attitude. You can head to my [portfolio](https://saheedoladele.com) to see some of my past works.
 
 Welcome to my repository! 
 
