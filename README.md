@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Saheed Oladele, a full-stack software developer.
+
+Welcome to my repository! 
+
 <!--
 **suretrust/suretrust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
