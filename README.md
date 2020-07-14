@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there, 👋
+
+#### Welcome to my repository! 
 
 I am Saheed Oladele, a positive minded full-stack software developer with a can do attitude. You can head to my [portfolio](https://saheedoladele.com) to see some of my past works.
-
-Welcome to my repository! 
 
 <!--
 **suretrust/suretrust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
