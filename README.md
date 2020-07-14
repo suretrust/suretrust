@@ -4,6 +4,8 @@
 
 I am Saheed Oladele, a positive minded full-stack software developer with a can do attitude. You can head to my [portfolio](https://saheedoladele.com) to see some of my past works.
 
+Skills: HTML5, CSS3, Bootstrap, Material UI, TailWind CSS, Ruby, JavaScript, Ruby on Rails, ReactJS, and several other libraries.
+
 <!--
 **suretrust/suretrust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
