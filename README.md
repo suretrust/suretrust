@@ -2,7 +2,7 @@
 
 #### Welcome to my repository!
 
-![Saheed's github stats](https://github-readme-stats.vercel.app/api?username=suretrust&count_private=true&show_icons=true&hide_border=true)
+![Saheed's github stats](https://github-readme-stats.vercel.app/api?username=suretrust&count_private=true&show_icons=true)
 
 I am Saheed Oladele, a full-stack software developer with a can-do attitude. You can head to my [portfolio](https://saheedoladele.com) to see some of my past works.
 
