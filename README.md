@@ -1,10 +1,14 @@
 ### Hi there, 👋
 
-#### Welcome to my repository! 
+#### Welcome to my repository!
 
-I am Saheed Oladele, a positive minded full-stack software developer with a can-do attitude. You can head to my [portfolio](https://saheedoladele.com) to see some of my past works.
+![Saheed's github stats](https://github-readme-stats.vercel.app/api?username=suretrust&count_private=true&show_icons=true)
+
+I am Saheed Oladele, a full-stack software developer with a can-do attitude. You can head to my [portfolio](https://saheedoladele.com) to see some of my past works.
 
 Skills: HTML5, CSS3, SASS/SCSS, Bootstrap, Material UI, TailWind CSS, Ruby, JavaScript, Ruby on Rails, ReactJS, NextJS, and several other libraries.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suretrust&layout=compact)](https://github.com/suretrust/github-readme-stats)
 
 <!--
 **suretrust/suretrust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
