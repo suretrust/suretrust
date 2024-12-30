@@ -4,7 +4,7 @@
 
 #### Welcome to my repository!
 
-I am Saheed Oladele, a full-stack software developer with a can-do attitude. You can head to my [portfolio](https://saheedoladele.com) to see some of my past works.
+I am Saheed Oladele, a full-stack software developer with a can-do attitude. You can learn more about me [here](https://saheedoladele.com).
 
 Skills: HTML5, CSS3, SASS/SCSS, Bootstrap, Material UI, TailWind CSS, Ruby, JavaScript, Ruby on Rails, ReactJS, Typescript, NextJS, and several other libraries.
 
