@@ -4,7 +4,7 @@
 
 #### Welcome to my repository!
 
-I am Saheed Oladele, a full-stack software developer with vast experience building scalable software products. You can learn more about me [here](https://saheedoladele.com).
+I am Saheed Oladele, a full-stack software developer with years of experience building scalable software products. You can learn more about me [here](https://saheedoladele.com).
 
 Skills: Typescript, NodeJS, Ruby on Rails, ReactJS, NextJS, and several other libraries.
 
