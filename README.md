@@ -6,7 +6,7 @@
 
 I am Saheed Oladele, a full-stack software developer with vast experience building scalable software products. You can learn more about me [here](https://saheedoladele.com).
 
-Skills: HTML5, CSS3, SASS/SCSS, Bootstrap, Material UI, TailWind CSS, Ruby, JavaScript, Ruby on Rails, ReactJS, Typescript, NextJS, and several other libraries.
+Skills: Typescript, NodeJS, Ruby on Rails, ReactJS, NextJS, and several other libraries.
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
